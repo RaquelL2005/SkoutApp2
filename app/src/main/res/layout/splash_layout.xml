@@ -16,12 +16,11 @@
         android:src="@drawable/triste" />
 
     <ProgressBar
-        android:layout_marginTop="10dp"
         android:id="@+id/prbSplash"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/imgLogo"
-        android:background="#0F82DD"
-        />
+        android:layout_marginTop="2dp"
+        android:background="#0F82DD" />
 
 </RelativeLayout>
